@@ -4,7 +4,7 @@
 
 This folder provides code for **Dataset Usage Cardinality Inference (DUCI)** on text data, focusing on detecting **the extent to which a model has used a specific dataset** during training. The application example in this folder is **copyright infringement detection**, where an author or publishing house may want to determine whether and how much of their content has been incorporated into a model.
 
-We conduct our experiments using **pre-trained GPT-2**~\citep{radford2019language} and the **BookMIA dataset**~\citep{shi2023detecting}, which contains:
+We conduct our experiments using **pre-trained GPT-2** and the **BookMIA dataset**, which contains:
 
 - **50 new books** (published in 2023, ensuring they were not in GPT-2’s pretraining data).
 - **50 old books** (memorized by ChatGPT, but uncertain for GPT-2).
