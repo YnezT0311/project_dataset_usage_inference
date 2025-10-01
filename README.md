@@ -19,7 +19,7 @@ Thank you for your interest in this project!
 
 ## 🚀 Getting Started
 
-To execute our code, please refer to the `README.md` file in each folder. These files contain detailed instructions on running experiments, and reproducing results.
+To execute our code, please refer to [PrivacyMeter](https://github.com/privacytrustlab/ml_privacy_meter). To reproduce our results for the LM, please refer to the `README.md` file in `text_code` folder. It contains detailed instructions on running experiments.
 
 ## 📚 Citation
 
