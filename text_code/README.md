@@ -9,7 +9,7 @@ We conduct our experiments using **pre-trained GPT-2** and the **BookMIA dataset
 - **50 new books** (published in 2023, ensuring they were not in GPT-2’s pretraining data).
 - **50 old books** (memorized by ChatGPT, but uncertain for GPT-2).
 
-To ensure a rigorous evaluation and prevent **data contamination** or **distribution shifts between members and non-members**~\cite{zhang2024membership}, we only use the **50 new books** for evaluation.
+To ensure a rigorous evaluation and prevent **data contamination** or **distribution shifts between members and non-members**, we only use the **50 new books** for evaluation.
 
 ---
 
